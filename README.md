@@ -1,8 +1,8 @@
-# Sitemap XML Generator
+# URL List to Sitemap
 
 This tool turns a list of page URLs into a valid sitemap.xml, with lastmod, changefreq, and priority on every entry. Paste one URL per line, set the defaults, and copy or download the file.
 
-**Live demo:** https://0xelitesystem.github.io/sitemap-xml-generator/
+**Live demo:** https://0xelitesystem.github.io/url-list-to-sitemap/
 
 ## What it does
 
@@ -36,8 +36,8 @@ Steps:
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/sitemap-xml-generator
-cd sitemap-xml-generator
+git clone https://github.com/0xelitesystem/url-list-to-sitemap
+cd url-list-to-sitemap
 ```
 
 Open `index.html` in a browser, or serve the folder with `python -m http.server` and visit http://localhost:8000.
